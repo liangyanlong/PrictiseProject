@@ -10,7 +10,7 @@ Library：Qt 5.1.1、rapidxml
 
 TODO：
 
-1. 学习如何使用Github
+1. 学习如何使用Github、Qt
 2. 任务分工：
   胡：文档、服务器端
   赵、梁、张：客户端
